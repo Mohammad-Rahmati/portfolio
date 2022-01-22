@@ -5,7 +5,10 @@
 
 - Attached are QRM barometer charts (labelled as risk) vs SPY on yearly and monthly time ranges:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22165051/150571523-0c90bd10-5319-4762-b632-64a12132b055.png" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/22165051/150571523-0c90bd10-5319-4762-b632-64a12132b055.png" /> 
+</p>
+
+<p align="left">
   <img src="https://user-images.githubusercontent.com/22165051/150571535-eb716c80-9f3e-43fd-9b5a-61b30f961225.png" />  
 </p>
