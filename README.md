@@ -5,6 +5,6 @@
 
 #### The following projects including my data science works for companies, academic, and self-learning:
 
-[Developing a Rebalancing Strategy Using Machine Learning and Modern Portfolio Theory (MPT)](https://github.com/Mohammad-Rahmati/Rebalancing_Strategy_ML_MPT)
+[Developing a Rebalancing Strategy Using Machine Learning and Modern Portfolio Theory](https://github.com/Mohammad-Rahmati/Rebalancing_Strategy_ML_MPT)
 
 [Quantitative Risk Management Barometer (Dataset)](https://github.com/Mohammad-Rahmati/QRM_barometer)
