@@ -8,3 +8,5 @@
 [Developing a Rebalancing Strategy Using Machine Learning and Modern Portfolio Theory](https://github.com/Mohammad-Rahmati/Rebalancing_Strategy_ML_MPT)
 
 [Quantitative Risk Management Barometer (Exploratory Data Analysis)](https://github.com/Mohammad-Rahmati/QRM_barometer)
+
+[Handling Imbalanced Dataset](https://github.com/Mohammad-Rahmati/handling_imbalanced_dataset)
