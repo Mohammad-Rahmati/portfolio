@@ -13,6 +13,6 @@
 
 [Handling Imbalanced Dataset](https://github.com/Mohammad-Rahmati/handling_imbalanced_dataset)
 
-[Time Series (LSTM))](https://github.com/Mohammad-Rahmati/time_series_LSTM)
+[Time Series (LSTM)](https://github.com/Mohammad-Rahmati/time_series_LSTM)
 
 
